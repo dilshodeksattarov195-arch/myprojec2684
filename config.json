@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaserelete",
+        "uuid": 20041428,
+        "checksum": "5dyte5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
